@@ -105,16 +105,6 @@ Let op: bij het gebruik van de XML-bestanden kunnen de weergaven/views ontbreken
 
 De modellen mogen worden gebruikt ter controle, verdieping of hergebruik in een onderzoekscontext. Wanneer de modellen worden gebruikt in vervolgonderzoek, wordt gevraagd om te verwijzen naar deze repository en naar het bijbehorende onderzoek.
 
-## Versiebeheer
-
-De drie modellen laten de ontwikkeling van het ArchiMate-model zien:
-
-- `v0.1`: eerste modelversie op basis van het theoretisch kader.
-- `v0.2`: aangepaste/tussentijdse versie op basis van een expertinterview met een ArchiMate-expert.
-- `v1.0`: definitieve versie op basis van alle expertinterviews, waaronder de ArchiMate-expert en domeinexperts.
-
-Voor inhoudelijke analyse of verwijzing wordt aangeraden om `studiekeuzeketen-v1-0.archimate` te gebruiken. Wanneer dit bestand niet werkt, kan `studiekeuzeketen-v1-0.xml` als alternatief worden gebruikt.
-
 ## Verwijzing naar deze repository
 
 Gebruik in een paper, verslag of publicatie bijvoorbeeld de volgende formulering:
